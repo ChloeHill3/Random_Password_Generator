@@ -27,7 +27,7 @@ The selected criteria is then written in the display box which can be copied and
 
 ## Example
 
-![This is the demo img of this application](images/RPG%20Loaded.png)
+<img src="./image/RPG Loaded.png" alt="Screenshot of the loading screen">
 
 <br>
  
